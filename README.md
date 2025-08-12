@@ -27,6 +27,10 @@ https://raw.githubusercontent.com/nancimua/lx-music-source/main/ikun/latest.js
 ```
 https://raw.githubusercontent.com/nancimua/lx-music-source/main/grass/latest.js
 ```
+### lx-music-source
+```
+https://raw.githubusercontent.com/nancimua/lx-music-source/refs/heads/main/lx-music-source%20V3.0.js
+```
 
 ## 在线导入 - 加速链接
 
@@ -53,6 +57,10 @@ https://ghproxy.net/raw.githubusercontent.com/nancimua/lx-music-source/main/ikun
 ### Grass
 ```
 https://ghproxy.net/raw.githubusercontent.com/nancimua/lx-music-source/main/grass/latest.js
+```
+### lx-music-source
+```
+https://ghproxy.net/raw.githubusercontent.com/nancimua/lx-music-source/refs/heads/main/lx-music-source%20V3.0.js
 ```
 
 ### 其他加速站点
