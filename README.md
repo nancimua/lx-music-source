@@ -29,7 +29,7 @@ https://raw.githubusercontent.com/nancimua/lx-music-source/main/grass/latest.js
 ```
 ### lx-music-source
 ```
-https://raw.githubusercontent.com/nancimua/lx-music-source/refs/heads/main/lx-music-source%20V3.0.js
+https://ghproxy.net/raw.githubusercontent.com/nancimua/lx-music-source/refs/heads/main/lx-music-source%20V3.0.js
 ```
 
 ## 在线导入 - 加速链接
